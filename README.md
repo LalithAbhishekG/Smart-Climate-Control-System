@@ -9,7 +9,7 @@ This project is an IoT-based climate control system that monitors temperature an
 - **WiFi Module**: ESP8266-01
 - **Server**: PHP server (XAMPP)
 - **Database**: MariaDB (XAMPP)
-- **Web Interface**: HTML, CSS, JavaScript, Bootstrap, DataTables
+- **Web Interface**: HTML, JavaScript, Tailwind, DataTables
 
 ## Project Components
 
